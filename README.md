@@ -1,4 +1,4 @@
-# 🏍️ Motorcycle Workshop Database
+#  Motorcycle Workshop Database
 
 Este projeto foi desenvolvido como uma **atividade acadêmica** da faculdade, com o objetivo de criar o modelo lógico e físico de um banco de dados relacional para uma **oficina de motocicletas**.  
 
@@ -7,7 +7,7 @@ O trabalho foi realizado **com a colaboração de colegas de turma**, sob orient
 
 ---
 
-## 🧩 Estrutura do Banco de Dados
+##  Estrutura do Banco de Dados
 
 O banco de dados foi projetado para simular as operações de uma oficina de motos, contendo tabelas que representam clientes, funcionários, fornecedores, peças, modelos de motos, vendas e ordens de serviço.
 
@@ -30,7 +30,7 @@ O banco de dados foi projetado para simular as operações de uma oficina de mot
 
 ---
 
-## ⚙️ Como executar o projeto
+##  Como executar o projeto
 
 ### Opção 1 — No **DB Fiddle**
 1. Acesse o link do projeto:  
