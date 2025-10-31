@@ -34,7 +34,7 @@ O banco de dados foi projetado para simular as operações de uma oficina de mot
 
 ### Opção 1 — No **DB Fiddle**
 1. Acesse o link do projeto:  
-   👉 [https://www.db-fiddle.com/f/ejPtkA85edVn8gdDdewoRU/51](https://www.db-fiddle.com/f/ejPtkA85edVn8gdDdewoRU/51)
+    [https://www.db-fiddle.com/f/ejPtkA85edVn8gdDdewoRU/51](https://www.db-fiddle.com/f/ejPtkA85edVn8gdDdewoRU/51)
 2. Clique em **Run** para criar as tabelas e visualizar os resultados.
 
 ### Opção 2 — Localmente (MySQL Workbench, DBeaver, IntelliJ etc.)
